@@ -20,6 +20,13 @@ This repository contains multiple Selenium automation scripts built using Python
 - Uses `undetected_chromedriver` to avoid detection by anti-bot measures.
 - Handles dynamic waits and error retries.
 
+### 3. test.py file automatic form filler 
+- Automates the sample website [https://www.selenium.dev/selenium/web/web-form.html]
+- Uses Selenium WebDriver with ChromeDriver.
+- Demonstrates basic web interactions like inputting text, clicking radio buttons and checkboxes, and submitting forms.
+- And this file fill forms continously 3 times in loop
+- with different names and passwords 
+
 ---
 
 ## Getting Started
